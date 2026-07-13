@@ -24,7 +24,7 @@ I'm a **React Native & full-stack developer** who ships **production mobile apps
 
 **Recent work you can see live:**
 
-- 📲 **[HelloRoam](https://github.com/HiZouraiz/helloroam-case-study)** — a global **eSIM travel-data app**, live on iOS + Android across **190+ countries** and **22 languages**, with a **5/5 App Store rating**. *(Lead React Native Engineer)*
+- 📲 **[HelloRoam](https://github.com/HiZouraiz/helloroam-case-study)** — a global **eSIM travel-data app**, live on iOS + Android across **190+ countries** and **22 languages**, with a **5/5 App Store rating**. I also built its **AI SEO + localization engine** (keyword research, translation & localized images across 22 languages). *(Senior Team Lead Developer)*
 - 🚗 **[Nova Auto Spa](https://github.com/HiZouraiz/nova-auto-spa-case-study)** — a **two-sided car-wash marketplace** (separate Customer + Provider apps) live across the **US and Mexico** in **English & Spanish**. *(Co-Founder & mobile engineer @ AzCodeWorks)*
 
 **What I bring:**
@@ -32,6 +32,7 @@ I'm a **React Native & full-stack developer** who ships **production mobile apps
 - End-to-end React Native development — from architecture to App Store / Play Store release
 - Strong TypeScript, React Navigation, state management (Redux / Zustand), and app localization (i18n) at scale
 - Backend APIs with Node.js / NestJS, plus PostgreSQL, MongoDB, Supabase, and Firebase
+- **AI automation** — built an LLM-powered SEO & localization engine (translation, keyword research, localized image generation across 22 languages)
 - Experience across fintech, on-demand services, logistics, and travel
 
 > 🟢 **Open to remote React Native / full-stack roles** (contract or full-time). Let's talk — [officialzouraiz@gmail.com](mailto:officialzouraiz@gmail.com)
