@@ -1,10 +1,14 @@
 # Zouraiz Khan
 
-React Native and full-stack developer. I build production mobile apps and ship them to the App Store and Google Play. I'm currently open to remote roles, contract or full-time.
+**Senior React Native and full-stack engineer.** I build production mobile apps and ship them to the App Store and Google Play. Currently **available for senior remote roles** with product teams in the US and UK.
 
+### 🌐 Portfolio: **[zouraizkhan.com](https://zouraizkhan.com)**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zouraizkhan.com-6D6BFF?style=for-the-badge&logo=safari&logoColor=white)](https://zouraizkhan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zouraizkhan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialzouraiz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hizouraiz)
+
+> 8+ years · 50+ production apps shipped · iOS and Android · Live apps used across 190+ countries
 
 ## About
 
@@ -16,7 +20,7 @@ A couple of recent things worth looking at:
 
 **[Nova Auto Spa](https://github.com/HiZouraiz/nova-auto-spa-case-study)** is a car wash marketplace I co-founded at AzCodeWorks. It has two apps, one for customers and one for the detailers, and runs across the US and Mexico in English and Spanish.
 
-If you're hiring for React Native or full-stack work, the case studies above have more detail. You can reach me at officialzouraiz@gmail.com.
+If you are hiring for React Native or full-stack work, see the full portfolio at [zouraizkhan.com](https://zouraizkhan.com) or reach me at officialzouraiz@gmail.com.
 
 ## What I work with
 
